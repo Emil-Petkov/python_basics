@@ -2,6 +2,7 @@
 
 
 
+
 from math import ceil
 
 series_name = input()
