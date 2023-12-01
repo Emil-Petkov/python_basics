@@ -7,6 +7,7 @@
 
 
 
+
 n_lines = int(input())
 
 p1 = []
