@@ -29,9 +29,8 @@ def summer_outfit(degrees: int, part_of_day: str):
             shoes = 'Barefoot'
 
     elif part_of_day == 'Evening':
-        if degrees >= 10:
-            outfit = 'Shirt'
-            shoes = 'Moccasins'
+        outfit = 'Shirt'
+        shoes = 'Moccasins'
 
     return outfit, shoes
 
