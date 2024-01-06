@@ -1,3 +1,4 @@
+
 def new_house(type_of_flower: str, n_flowers: int, budget: int):
     # price
     rose_price = 5.00
