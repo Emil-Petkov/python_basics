@@ -1,6 +1,4 @@
 def trade_commissions(town: str, sales: float):
-    trade_commission = 0
-
     commissions = {
         'Sofia': [(500, 0.05), (1_000, 0.07), (10_000, 0.08), (float('inf'), 0.12)],
         'Varna': [(500, 0.045), (1_000, 0.075), (10_000, 0.10), (float('inf'), 0.13)],
