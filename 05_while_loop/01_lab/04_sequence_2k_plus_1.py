@@ -1,4 +1,5 @@
 
+
 n = int(input())
 
 counter = 1
