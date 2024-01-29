@@ -2,6 +2,7 @@
 
 
 
+
 money = float(input())
 change_in_cents = int(money * 100)
 
