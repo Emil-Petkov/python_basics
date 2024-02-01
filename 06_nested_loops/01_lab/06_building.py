@@ -8,6 +8,7 @@
 
 
 
+
 floors = int(input())
 rooms = int(input())
 
