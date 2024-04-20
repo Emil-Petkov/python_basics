@@ -10,6 +10,7 @@
 
 
 
+
 def small_shop(product: str, town: str, quantity: float):
     mapping = {
         'Sofia': {
