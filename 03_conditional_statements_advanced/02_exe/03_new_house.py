@@ -35,4 +35,4 @@ def new_house(type_flower, n_flowers, budget):
 type_flower = input()
 n_flowers = int(input())
 budget = int(input())
-print(new_house(type_flower, n_flowers, budget))
+print(new_house(type_flower, n_flowers, budget)
