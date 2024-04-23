@@ -10,6 +10,7 @@
 
 
 
+
 import sys
 
 n_numbers = int(input())
