@@ -2,6 +2,7 @@
 
 
 
+
 n_open_tabs = int(input())
 salary = int(input())
 
