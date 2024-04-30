@@ -1,5 +1,6 @@
 
 
+
 trip_price = float(input())
 current_money = float(input())
 counter_days = 0
